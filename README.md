@@ -1,3 +1,5 @@
+> **Archived.** FlexCV is retired: its work now lives in Career in gt-hub (https://github.com/iamgregt/actualinfra), the Actual Infra product.
+
 # Privacy Policy for FlexCV Job Capture
 
 **Effective Date: January 8, 2025**  
